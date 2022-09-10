@@ -1,5 +1,8 @@
 # Sponsorships and reviews:
-The purpose of this gihub repo is to showcase sponsorships and for me to write a bit about what I think. Some will be gifted/sponsored items, some will be non-sponsored.
+The purpose of this gihub repo for general writeups and to showcase/review sponsored items and non-sponsored.
+
+## 2022-09 Yakiimo Prototype R1
+[Review of Yakiimo Prototype R1](./Yakiimo_ProtoA_20220910/Yakiimo_ProtoA_20220910)
 
 ## 2022-06 Sponsored PCB from PCBWay
 [Sponsored PCB from PCBWay](./PCBway_20220620/PCBway_20220620.md)
