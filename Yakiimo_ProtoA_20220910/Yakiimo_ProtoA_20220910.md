@@ -94,4 +94,4 @@ We did discuss the possibility to add a plate in the yakiimo-discussion channel.
 
 Thanks for reading!
 
-![pic10](./pic01.jpeg)
+![pic10](./pic10.jpeg)
